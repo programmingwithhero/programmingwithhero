@@ -26,7 +26,7 @@ export default function Home() {
         </div>
       </div>
     </div>
-  </div><br>
+  </div>
   <div class="card">
        <img class="respImg" loading="lazy" src="https://codewithharry.nyc3.cdn.digitaloceanspaces.com/assets/62f60049963012281edcc77dd2ec031b.png">
       <span class="cardTitle">Go to About Page</span><br>
