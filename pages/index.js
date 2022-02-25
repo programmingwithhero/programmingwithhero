@@ -29,22 +29,22 @@ export default function Home() {
   </div>
   <div class="card">
        <img class="respImg" loading="lazy" src="https://codewithharry.nyc3.cdn.digitaloceanspaces.com/assets/62f60049963012281edcc77dd2ec031b.png">
-      <span class="cardTitle">Go to About Page</span><br>
+      <span class="cardTitle">Go to About Page</span>
     <button class="btn-sm">Read More</button>
   </div>
   <div class="card my-1">
        <img class="respImg" loading="lazy" src="https://codewithharry.nyc3.cdn.digitaloceanspaces.com/assets/62f60049963012281edcc77dd2ec031b.png">
-      <span class="cardTitle">Go to Blog Page</span><br>
+      <span class="cardTitle">Go to Blog Page</span>
     <button class="btn-sm">Read More</button>
   </div>
   <div class="card my-1">
        <img class="respImg" loading="lazy" src="https://codewithharry.nyc3.cdn.digitaloceanspaces.com/assets/62f60049963012281edcc77dd2ec031b.png">
-      <span class="cardTitle">My Projects Page</span><br>
+      <span class="cardTitle">My Projects Page</span>
     <button class="btn-sm">Read More</button>
   </div>
   <div class="card my-1">
        <img class="respImg" loading="lazy" src="https://codewithharry.nyc3.cdn.digitaloceanspaces.com/assets/62f60049963012281edcc77dd2ec031b.png">
-      <span class="cardTitle">Go to Contact Page</span><br>
+      <span class="cardTitle">Go to Contact Page</span>
     <button class="btn-sm">Read More</button>
   </div>
   
